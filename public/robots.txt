@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+User-agent: HTTrack
+Disallow: /
+User-agent: WebCopier
+Disallow: /
+User-agent: Bytespider
+Disallow: /
+
+Sitemap: https://royalankitahiranl.netlify.app/sitemap.xml
